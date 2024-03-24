@@ -2,6 +2,8 @@
 
 A more opinionated React.js starter that includes ChakraUI, React Router, and React Icons. I just created this project because I find myself wasting hours on boilerplate UI code when building new things, so I'll just use this template instead.
 
+![Dashboard Screenshot](./screenshots/sc1.png "Dashboard Page")
+
 ## Getting Started
 
 Clone the repo and install dependencies:
